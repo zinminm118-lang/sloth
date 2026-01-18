@@ -1,4 +1,4 @@
-apiVersion: sloth.slok.dev/v1
+www.666.flish.com apiVersion: sloth.slok.dev/v1
 kind: AlertWindows
 spec:
   sloPeriod: 7d
